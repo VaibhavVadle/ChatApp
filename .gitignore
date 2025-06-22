@@ -1,4 +1,9 @@
 # Xcode Project
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.xcuserstate
 **/*.xcodeproj/xcuserdata/
 **/*.xcworkspace/xcuserdata/
 **/.swiftpm/xcode/xcuserdata/
