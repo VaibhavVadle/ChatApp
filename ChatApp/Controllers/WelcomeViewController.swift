@@ -7,10 +7,10 @@ class WelcomeViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        titleLabel.text = "⚡️ChatApp"
+        titleLabel.text = K.appName
 //        titleLabel.text = ""
 //        var charIndex = 0.0
-//        let titleText = "⚡️ChatApp"
+//        let titleText = K.appName
 //        for letter in titleText {
 //            Timer.scheduledTimer(
 //                withTimeInterval: 0.1 * charIndex, repeats: false
